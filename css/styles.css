@@ -105,7 +105,7 @@ h5 {
 
 h6 {
 	color: #484a46;
-	font: 700 1rem/1.375rem "Montserrat", sans-serif;
+	font: 400 1rem/1rem "Montserrat", sans-serif;
 }
 
 a {
@@ -766,8 +766,8 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/Rosi\ tour\ transport\ persoane\ pachete\ Iasi\ Budapesta\ Praga\ Bratislava\ Hamburg\ Dresden.jpg') center center no-repeat;
-	
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/Mercedes.jpg') center center no-repeat;
+	background-size:cover;
 	
 	
 }
@@ -2062,7 +2062,7 @@ a:hover.back-to-top {
 	}
 
 	.header .text-container {
-		margin-top: 65%;
+		margin-top: 80%;
 	}
 	/* end of header */
 
